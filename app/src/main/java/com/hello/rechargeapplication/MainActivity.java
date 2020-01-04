@@ -11,6 +11,10 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+/*
+ * 2020/01/04
+ * shI
+ * */
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
     private int[] ints = new int[]{1, 5, 10, 20, 50, 100};

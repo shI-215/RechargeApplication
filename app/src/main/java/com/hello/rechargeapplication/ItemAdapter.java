@@ -10,6 +10,10 @@ import android.widget.Toast;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
+/*
+ * 2020/01/04
+ * shI
+ * */
 public class ItemAdapter extends RecyclerView.Adapter<ItemAdapter.ViewHolder> {
     private int[] ints;
     private int positionIndex = -1;
